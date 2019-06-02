@@ -1,2 +1,2 @@
-# jumlahan
-iseng bikin kode
+# Python
+Ruang bebas iseng buat ngode python
